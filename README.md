@@ -1,7 +1,8 @@
 
 # Práctica con HTML y CSS
 
-* [VersiónAntiguaHTML](https://www.edu.xunta.gal/centros/iesteis/aulavirtual/course/view.php?id=896&section=2/v1/SinisterFINAL.html)
-* [VersiónHTMLconCSS](https://www.edu.xunta.gal/centros/iesteis/aulavirtual/course/view.php?id=896/v3/Sinister2.0.html)
-* [VersiónconPlantilla](https://www.edu.xunta.gal/centros/iesteis/aulavirtual)
-* [PlantillaOriginal](https://www.edu.xunta.gal/centros/iesteis/aulavirtual/user/files.php)
+* [dominio](https://brimacias.github.io/Sinister/Versi%C3%B3n%202/)
+* [VersiónAntiguaHTML](https://brimacias.github.io/Sinister/Versi%C3%B3n%201/SinisterFINAL.html)
+* [VersiónHTMLconCSS](https://brimacias.github.io/Sinister/Versi%C3%B3n%202/)
+* [VersiónconPlantilla](https://brimacias.github.io/Sinister/Versi%C3%B3n%203/index(plantillaModificada).html)
+* [PlantillaOriginal](https://brimacias.github.io/Sinister/Versi%C3%B3n%203/index(plantillaOG).html)
