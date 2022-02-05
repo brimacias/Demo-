@@ -1,5 +1,4 @@
-#Demo
-##Práctica con HTML
+
 ###Práctica con HTML y CSS
 
 * [VersiónAntiguaHTML](https://www.edu.xunta.gal/centros/iesteis/aulavirtual/course/view.php?id=896&section=2/v1/SinisterFINAL.html)
